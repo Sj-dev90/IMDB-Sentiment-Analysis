@@ -1,8 +1,8 @@
 # IMDb Sentiment Analysis - First Year AIML Recruitment Task
 
 # Folder Structure
-imdb.py
-IMDB_Dataset.csv
+imdb.py  
+IMDB_Dataset.csv  
 requirements.txt
 
 
