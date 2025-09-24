@@ -34,4 +34,5 @@ Logistic Regression performed slightly better, so it is the preferred model.
 # How to Run
 1. Install required libraries:
    pip install -r requirements.txt
+2. Run:
    python imdb.py
